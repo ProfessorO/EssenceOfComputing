@@ -8,7 +8,7 @@ from runestone import get_master_url
 import pkg_resources
 
 ######## CHANGE THIS ##########
-project_name = "webfundamentals"
+project_name = "essenceofcomputing"
 ###############################
 
 # if you want to override the master url do it here.  Otherwise setting it to None
@@ -21,7 +21,7 @@ if master_url is None:
 
 dynamic_pages = True
 master_app = 'runestone'
-serving_dir = './build/webfundamentals'
+serving_dir = './build/essenceofcomputing'
 
 if dynamic_pages:
     dest = './published'
@@ -47,7 +47,7 @@ options(
             'dynamic_pages': dynamic_pages,
             'python3': 'true',
             'dburl': 'postgresql://bmiller@localhost/runestone',
-            'basecourse': 'webfundamentals',
+            'basecourse': 'essenceofcomputing',
             'downloads_enabled': 'false',
             'enable_chatcodes': 'false',
             'allow_pairs': 'false',
