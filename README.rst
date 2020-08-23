@@ -1,3 +1,10 @@
+#EssenceOfComputing
+===================
+Runestone Interactive textbook for CPTR-108 #EssenceOfComputing course
+taught by Robert Ordóñez at Southern Adventist University's School of Computing.
+
+Based on Brent Miller's Fundamentals of Web Programming, with material drawn from other sources.
+
 Fundamentals of Web Programming
 ===============================
 
