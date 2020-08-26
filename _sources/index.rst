@@ -22,7 +22,7 @@
 
 .. toctree::
 
-    FrontBackMatter/preface.rst
+    0-Preface/preface.rst
 
 .. toctree::
     :maxdepth: 3

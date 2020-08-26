@@ -1,25 +1,24 @@
 Preface
 =======
 
-Hello World!  This book is/was written in the Fall of 2014 as I was teaching two courses on web programming.  One course was for potential and non CS majors who wanted to learn a little about web programming.  This course was seven weeks long and covered only Part 1.  The second course is a course I've taught for several years, without a book, that is for upper level CS students.  This course covers parts 1 and 2.  Part 1 can obviously be covered a lot faster for upper level CS students than it can for students with no programming background.
+Welcome to #EssenceOfComputing! In this course, we'll use the web (specifically HTML, CSS, and JavaScript) as a vehicle to explore fundamental concepts and important skills in computing, from data representation (all those ones and zeros you may have heard about) to programming.
 
-I've had this book in my head for many years now, but haven't written it as I have been too busy building the `Runestone Tools <http://runestoneinteractive.org>`_, teaching courses, and trying to have a life.
+Instead of assuming you have a significant background in programming, networking, or any other areas of computing, we start from the very basic ideas and terms, and build up from there. The only knowledge you are assumed to have is basic computer use--browsing and search on the web, email, moving files around. If there are terms or concepts presented here that you are not familiar with, please alert me so I can add appropriate explanations. You can play a role in improving this course for yourself and others!
 
-Because I've written it as I've been teaching the course, it only covers what I am able to accomplish in a semester, I realize you may differ with me on what is important or even what is reasonable to accomplish in a semester!.  The book is open source,  Fork it on github.  Submit an issue if you have feedback or suggestions for improvements. Submit a chapter if you have an idea for something you think is important that I have left out.  Books get long over time because people differ on what is important, and authors like to make lots of people happy.
+This book draws from several sources. The primary one is a free online book called Fundamentals of Web Programming (webfundamentals) by Brad Miller at Runestone Interactive, but it includes material from other Runestone Interactive books, as well as various articles, blog posts, and websites (credited on individual pages).
 
 The Content and Structure of this Book
 --------------------------------------
 
 The projects in this book require you to learn:
 
+* Linux (command line)
+* WordPress
 * HTML
 * CSS
 * Javascript
-* Python
-* A variety of Python modules
-* Data Modeling and SQL
 
-Any of these would be enough for a single course!  And in fact you can probably find courses that will go into more depth on any of these things at your school.
+Any of these would be enough for a single course!  In fact, we have other courses that will go into more depth on several of these topics.
 
 So, I am going to ask you to do things that are not explicitly covered in the book.  I may not lecture on them. If you just want to regurgitate what is in lecture you won't learn much, and the knowledge you gained would be obsolete in a year or so anyway.  In this book what I hope to emphasize is the **context**, the **background** and the  **essentials** that will equip you to find the details you need on your own.
 
@@ -46,8 +45,5 @@ There is a second definition of the learning zone that is related to what we hav
 
 The big takeaway for you is that as a student in the classroom for this class, you are in the learning zone as Briceño defines it.  You are not being judged or graded for how quickly you arrive at an answer or not!  The classroom for this course is a time for you to practice old skills, try new skills, and to fail without repercussions.  That is how we learn!  You will spend a huge amount of the rest of your life in the performance zone, so take advantage of this opportunity and enjoy the chance to be in the learning zone.
 
-Web programming would not exist without the world of open source.  Neither would this book.  Especially parts of the Flask chapter which are taken directly from the `Flask documentation <http://flask.palletsprojects.com/en/1.1.x/>`_ and used under the terms of their license.
-
-Brad Miller
-September 2019
-
+Prof. Robert Ordóñez ("Prof. O")
+August 2020
