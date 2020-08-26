@@ -5,6 +5,8 @@ Systems
    :maxdepth: 2
 
    intro.rst
-   history.rst
-   technology.rst
-
+   parts.rst
+   cli.rst
+   hierarchies.rst
+   cms.rst
+   review.rst
