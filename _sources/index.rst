@@ -2,9 +2,9 @@
 .. Robert Ordóñez, 2020, Southern Adventist University
 .. Bradley Miller, 2014, Luther College
 
-===============================
+===================
 #EssenceOfComputing
-===============================
+===================
 
 .. Here is were you specify the content and order of your new book.
 
@@ -29,7 +29,8 @@
     :numbered:
 
     1-Systems/toctree.rst
-    2-Information/toctree.rst
+
+..    2-Information/toctree.rst
     3-Programming/toctree.rst
     4-Connections/toctree.rst
     5-Issues/toctree.rst
